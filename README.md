@@ -3,7 +3,7 @@ Apresentação A3 - Modelos, métodos e técnicas da engenharia de software
 
 
 # Software: Mãos Solidárias 🤝
-<img src= "https://private-user-images.githubusercontent.com/146378274/337921141-0995bb3b-3600-4d46-b1e5-1ca8220c0c4c.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4Njc0OTUsIm5iZiI6MTcxNzg2NzE5NSwicGF0aCI6Ii8xNDYzNzgyNzQvMzM3OTIxMTQxLTA5OTViYjNiLTM2MDAtNGQ0Ni1iMWU1LTFjYTgyMjBjMGM0Yy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MDhUMTcxOTU1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjA0ZGNhNzE5YjJlNmJmMjdlMWEyMTJiNDRmNDI4NDRmMWM5M2MwYmZmYzQwNmRhOGI2OWVmNDNkYzYyMjA0NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.cfKJmjQ4jHmiSEiFaN7_d7w1QZocLwigx8koRXvuaOg" width="480"/>
+<img src= "https://github.com/SrPedron/maos-solidarias/assets/132299155/30d99877-3665-4449-a64a-4bbdb5258811" width="780"/>
 
 # Sobre o Projeto
 
@@ -13,10 +13,10 @@ O software "Mãos Solidárias" visa auxiliar na organização e gestão de esfor
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
 * [Descrição das Funcionalidades](#funcionalidades-do-sistema)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Requisitos Não Funcionais](#requisitos-não-funcionais)
+* [Telas iniciais](#telas-iniciais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 
 # Funcionalidades do Sistema
@@ -44,7 +44,6 @@ calçados, etc.
 
 - c. Gestor Administrador: Adição e gerenciamento de gestores, controle de
     estoque de doações e visualização de relatórios detalhados.
-
 
 # Requisitos Funcionais 
 
@@ -93,6 +92,11 @@ pessoas com deficiência possam utilizá-lo.
 
 Para facilitar a manutenção e futuras atualizações, o código do sistema deve ser devidamente documentado. Além disso, o sistema deve aderir a padrões de codificação consistentes e seguir as melhores práticas de engenharia de software
 
+# Telas iniciais
+![T1](https://github.com/SrPedron/maos-solidarias/assets/132299155/bc553e8c-3521-40f0-8772-72d9bc1329ef)
+![T2](https://github.com/SrPedron/maos-solidarias/assets/132299155/3ab6938e-5537-49fe-8e9b-4fc8e1e24012) 
+![T3](https://github.com/SrPedron/maos-solidarias/assets/132299155/5024677a-8610-47b3-b927-6bb12b410d63)
+
 
 # Tecnologias Usadas
 
@@ -100,7 +104,6 @@ Para facilitar a manutenção e futuras atualizações, o código do sistema dev
 - [Visual Studio Code](https://vscode.dev/)
 - [Xtensio](https://xtensio.com/)
 - [Figma](https://www.figma.com/) 
-
 
 
 # Slides com Link do Vídeo de Apresentação
