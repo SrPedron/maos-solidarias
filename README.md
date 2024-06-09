@@ -1,5 +1,5 @@
 # Grupo: Mãos Solidárias
-Apresentação A3 - Modelos, métodos e técnicas da engenharia de software 
+A3 - Modelos, métodos e técnicas da engenharia de software 
 
 
 # Software: Mãos Solidárias 🤝
@@ -93,10 +93,7 @@ pessoas com deficiência possam utilizá-lo.
 Para facilitar a manutenção e futuras atualizações, o código do sistema deve ser devidamente documentado. Além disso, o sistema deve aderir a padrões de codificação consistentes e seguir as melhores práticas de engenharia de software
 
 # Telas iniciais
-![T1](https://github.com/SrPedron/maos-solidarias/assets/132299155/bc553e8c-3521-40f0-8772-72d9bc1329ef)
-![T2](https://github.com/SrPedron/maos-solidarias/assets/132299155/3ab6938e-5537-49fe-8e9b-4fc8e1e24012) 
-![T3](https://github.com/SrPedron/maos-solidarias/assets/132299155/5024677a-8610-47b3-b927-6bb12b410d63)
-
+<img src= "https://github.com/SrPedron/maos-solidarias/assets/132299155/bc553e8c-3521-40f0-8772-72d9bc1329ef" width="250"/>, <img src= "https://github.com/SrPedron/maos-solidarias/assets/132299155/3ab6938e-5537-49fe-8e9b-4fc8e1e24012" width="250"/>, <img src= "https://github.com/SrPedron/maos-solidarias/assets/132299155/5024677a-8610-47b3-b927-6bb12b410d63" width="250"/>
 
 # Tecnologias Usadas
 
