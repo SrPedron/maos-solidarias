@@ -97,12 +97,23 @@ Para facilitar a manutenção e futuras atualizações, o código do sistema dev
 
 # Tecnologias Usadas
 
-- [Replit](https://replit.com/)
-- [Visual Studio Code](https://vscode.dev/)
-- [Xtensio](https://xtensio.com/)
-- [Figma](https://www.figma.com/) 
+- [Replit:](https://replit.com/) Para desensovimento do código em grupo.
+- [Visual Studio:](https://vscode.dev/) Para desensovimento.
+- [Trello:](https://trello.com/) Para gerenciamento de tarefas.
+- [Whatsapp:](https://web.whatsapp.com/) Para revisões diárias.
+- [Canva:](https://www.canva.com/pt_br/) Para prototipagem e design de telas.
+- [GitHub:](https://github.com/) Para hospedagem e controle de versão do código
 
+# Participantes
+- RA: 1292220611    Brunna Vieira Alves
+- RA: 1292225062	Carlos Augusto Ribeiro
+- RA: 1292220639	Diego Fernandes Castro Mariano
+- RA: 1292226374	João Pedro Silva de Oliveira
+- RA: 1292225730	Leonardo Martins kwiecinki
+- RA: 1292223424	Luis Felipe da Silva Machado
 
 # Slides com Link do Vídeo de Apresentação
 
-POR AQUI O ARQUIVO PDF E LINK DO VÍDEO.
+[Vídeo Apresentação](por-o-link-do-video-aqui)
+
+[Apresentação.pdf](https://github.com/user-attachments/files/15778415/A3.App.Maos.Solidarias.UniRitter.Fapa.pdf)
