@@ -18,6 +18,8 @@ O software "Mãos Solidárias" visa auxiliar na organização e gestão de esfor
 * [Requisitos Não Funcionais](#requisitos-não-funcionais)
 * [Telas iniciais](#telas-iniciais)
 * [Tecnologias Usadas](#tecnologias-usadas)
+* [Participantes](#participantes)
+* [Apresentação](#slides-com-link-do-vídeo-de-apresentação)
 
 # Funcionalidades do Sistema
 
