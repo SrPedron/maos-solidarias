@@ -19,7 +19,7 @@ O software "Mãos Solidárias" visa auxiliar na organização e gestão de esfor
 * [Telas iniciais](#telas-iniciais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Participantes](#participantes)
-* [Apresentação](#slides-com-link-do-vídeo-de-apresentação)
+* [Apresentação](#slides-e-vídeo-apresentação)
 
 # Funcionalidades do Sistema
 
@@ -114,8 +114,8 @@ Para facilitar a manutenção e futuras atualizações, o código do sistema dev
 - RA: 1292225730	Leonardo Martins kwiecinki
 - RA: 1292223424	Luis Felipe da Silva Machado
 
-# Slides com Link do Vídeo de Apresentação
-
-[Vídeo Apresentação](por-o-link-do-video-aqui)
+# Slides e vídeo apresentação
 
 [Apresentação.pdf](https://github.com/user-attachments/files/15778415/A3.App.Maos.Solidarias.UniRitter.Fapa.pdf)
+
+[Vídeo apresentação](https://www.youtube.com/watch?v=ToBiED4VWqg&ab_channel=CarlosRibeiro)
